@@ -1,0 +1,2 @@
+# labirint
+sigma
