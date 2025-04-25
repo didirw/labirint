@@ -26,7 +26,7 @@ class GameSprite(sprite.Sprite):
         window.blit(self.image,(self.rect.x,self.rect.y))
 
 
-
+#клас персонажа
 class Player(GameSprite):
     def update(self):
         keys_pressed =key.get_pressed()
